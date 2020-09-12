@@ -1,0 +1,39 @@
+
+.bottom-left {
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+}
+.container {
+    padding-top: 50px;
+}
+.caption {
+    margin-left: 6px;
+    font-weight: bold;
+}
+.popular-text{
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    color: white;
+    
+}
+.center {
+    font-size: 40px;
+    font-weight: bold;
+}
+.small {
+    font-size: 10px;
+}
+.login-container {
+    background-image: url(../assets/images/cucumber.jpg);
+    background-position: center;
+}
+.no-padding {
+    padding: 0;
+  }
+
+  .carousel-caption {
+    margin-top: 200px;
+    bottom: auto;
+}
